@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [RAG summarization in Node.js: PDF pages, embeddings, rerank, then a final summary](posts/rag-summarization-in-node-js-pdf-pages-embeddings-rerank-then-a-final-su.md)
 - [Ask Your Docs: Node.js Semantic Search, Embeddings, Rerank, and RAG](posts/ask-your-docs-node-js-semantic-search-embeddings-rerank-and-rag.md)
 - [OpenAI-compatible image generation in Node: multi-provider fallback and model routing](posts/openai-compatible-image-generation-in-node-multi-provider-fallback-and-m.md)
 - [Picking an API to summarize multilingual support tickets, emails, and meeting notes](posts/picking-an-api-to-summarize-multilingual-support-tickets-emails-and-meet.md)
