@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Chatbot retries, rate limits, and billing: one gateway or direct vendor accounts?](posts/chatbot-retries-rate-limits-and-billing-one-gateway-or-direct-vendor-acc.md)
 - [Cost-sizing a moderation queue: token math for user text and images in Node.js](posts/cost-sizing-a-moderation-queue-token-math-for-user-text-and-images-in-no.md)
 - [RAG summarization in Node.js: PDF pages, embeddings, rerank, then a final summary](posts/rag-summarization-in-node-js-pdf-pages-embeddings-rerank-then-a-final-su.md)
 - [Ask Your Docs: Node.js Semantic Search, Embeddings, Rerank, and RAG](posts/ask-your-docs-node-js-semantic-search-embeddings-rerank-and-rag.md)
